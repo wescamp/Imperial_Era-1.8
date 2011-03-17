@@ -39,14 +39,14 @@ msgstr ""
 
 #: Imperial_Era/data/special-notes.cfg:12
 msgid ""
-" Rally gives a bonus to surrounding units if this unit has maen_GB an attack "
-"this turn, or, on en_GBfending, on its previous turn."
+" Rally gives a bonus to surrounding units if this unit has made an attack "
+"this turn, or, on defending, on its previous turn."
 msgstr ""
 
 #: Imperial_Era/data/special-notes.cfg:15
 msgid ""
 " A unit with runelaying will, at the beginning of its turn, place a rune on "
-"its current hex that provien_GBs a random bonus to the unit on that hex."
+"its current hex that provides a random bonus to the unit on that hex."
 msgstr ""
 
 #: Imperial_Era/data/special-notes.cfg:18
@@ -62,68 +62,68 @@ msgid ""
 "attacks."
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Arendians, type=Arendian Feather Bow
-#. [multiplayer_sien_GB]: id=Arendians, type=Arendian Arrow Wind
-#. [multiplayer_sien_GB]: id=Arendians, type=Arendian Archer
+#. [multiplayer_side]: id=Arendians, type=Arendian Feather Bow
+#. [multiplayer_side]: id=Arendians, type=Arendian Arrow Wind
+#. [multiplayer_side]: id=Arendians, type=Arendian Archer
 #: Imperial_Era/factions/imper-arendians.cfg:5
 #: Imperial_Era/factions/imper_champs-arendians.cfg:5
 #: Imperial_Era/factions/imper_rpg-arendians.cfg:5
 msgid "Arendians"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Cavernei, type=Cavernei Lord
-#. [multiplayer_sien_GB]: id=Cavernei, type=Cavernei Watcher
-#. [multiplayer_sien_GB]: id=Cavernei, type=Cavernei Steelclad
+#. [multiplayer_side]: id=Cavernei, type=Cavernei Lord
+#. [multiplayer_side]: id=Cavernei, type=Cavernei Watcher
+#. [multiplayer_side]: id=Cavernei, type=Cavernei Steelclad
 #: Imperial_Era/factions/imper_champs-cavernei.cfg:5
 #: Imperial_Era/factions/imper_rpg-cavernei.cfg:5
 #: Imperial_Era/factions/imper-cavernei.cfg:5
 msgid "Cavernei"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Issaelfr, type=Frost Elf Ice Roamer
-#. [multiplayer_sien_GB]: id=Issaelfr, type=Frost Elf Ice Blaen_GBsman
-#. [multiplayer_sien_GB]: id=Issaelfr, type=Frost Elf Ice Dancer
+#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Roamer
+#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Bladesman
+#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Dancer
 #: Imperial_Era/factions/imper-issaelfr.cfg:5
 #: Imperial_Era/factions/imper_rpg-issaelfr.cfg:5
 #: Imperial_Era/factions/imper_champs-issaelfr.cfg:5
 msgid "Issaelfr"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Lavinian Legion, type=Lavinian Decurion
-#. [multiplayer_sien_GB]: id=The Lavinian Legion, type=Lavinian Centurion
-#. [multiplayer_sien_GB]: id=Lavinian Legion, type=Lavinian Legionnaire
+#. [multiplayer_side]: id=Lavinian Legion, type=Lavinian Decurion
+#. [multiplayer_side]: id=The Lavinian Legion, type=Lavinian Centurion
+#. [multiplayer_side]: id=Lavinian Legion, type=Lavinian Legionnaire
 #: Imperial_Era/factions/imper-lavinian_legion.cfg:5
 #: Imperial_Era/factions/imper_champs-lavinian_legion.cfg:5
 #: Imperial_Era/factions/imper_rpg-lavinian_legion.cfg:5
 msgid "Lavinian Legion"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Marauen_GBrs, type=Marauen_GBr Pillager
-#. [multiplayer_sien_GB]: id=Marauen_GBrs, type=Marauen_GBr Warrior
-#. [multiplayer_sien_GB]: id=Marauen_GBrs, type=Marauen_GBr Lord
-#: Imperial_Era/factions/imper-marauen_GBrs.cfg:5
-#: Imperial_Era/factions/imper_rpg-marauen_GBrs.cfg:5
-#: Imperial_Era/factions/imper_champs-marauen_GBrs.cfg:5
-msgid "Marauen_GBrs"
+#. [multiplayer_side]: id=Marauders, type=Marauder Pillager
+#. [multiplayer_side]: id=Marauders, type=Marauder Warrior
+#. [multiplayer_side]: id=Marauders, type=Marauder Lord
+#: Imperial_Era/factions/imper-marauders.cfg:5
+#: Imperial_Era/factions/imper_rpg-marauders.cfg:5
+#: Imperial_Era/factions/imper_champs-marauders.cfg:5
+msgid "Marauders"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Orcei Gladiatores, type=Magni Paegniarius
-#. [multiplayer_sien_GB]: id=Orcei Gladiatores, type=Magni Pugnator
+#. [multiplayer_side]: id=Orcei Gladiatores, type=Magni Paegniarius
+#. [multiplayer_side]: id=Orcei Gladiatores, type=Magni Pugnator
 #: Imperial_Era/factions/imper-orcei_gladiatores.cfg:5
 #: Imperial_Era/factions/imper_rpg-orcei_gladiatores.cfg:5
 msgid "Orcei Gladiatores"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Sidhe, type=Wild Elf Blaen_GBspinner
-#. [multiplayer_sien_GB]: id=Sidhe, type=Wild Elf Wanen_GBrer
-#. [multiplayer_sien_GB]: id=Sidhe, type=Wild Elf Thunen_GBrblaen_GB
+#. [multiplayer_side]: id=Sidhe, type=Wild Elf Bladespinner
+#. [multiplayer_side]: id=Sidhe, type=Wild Elf Wanderer
+#. [multiplayer_side]: id=Sidhe, type=Wild Elf Thunderblade
 #: Imperial_Era/factions/imper-sidhe.cfg:5
 #: Imperial_Era/factions/imper_rpg-sidhe.cfg:5
 #: Imperial_Era/factions/imper_champs-sidhe.cfg:5
 msgid "Sidhe"
 msgstr ""
 
-#. [multiplayer_sien_GB]: id=Orcei Gladiatores, type=Magni Brutal Paegniarius
+#. [multiplayer_side]: id=Orcei Gladiatores, type=Magni Brutal Paegniarius
 #: Imperial_Era/factions/imper_champs-orcei_gladiatores.cfg:5
 msgid "Orces Gladiatores"
 msgstr ""
@@ -136,8 +136,8 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_The_Haunted_Forest
 #: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:6
 msgid ""
-"The en_GBpths of the Sidhe forest are known for the ghosts that live therein. "
-"The shaen_GBs of Sidhe warriors long en_GBparted, they resien_GB in the rocky cairns "
+"The depths of the Sidhe forest are known for the ghosts that live therein. "
+"The shades of Sidhe warriors long departed, they reside in the rocky cairns "
 "that mark the landscape. Treasure hunters often attempt to loot their "
 "graves, but they will gain nothing without a fight."
 msgstr ""
@@ -171,7 +171,7 @@ msgstr ""
 msgid ""
 "Falcons that reach unusual sizes are known as Falcon Lords. They are no "
 "longer used for the hunt but are strictly reserved for the battlefield. They "
-"dive out of nowhere with a terrible velocity to en_GBstroy their prey. "
+"dive out of nowhere with a terrible velocity to destroy their prey. "
 msgstr ""
 
 #. [unit_type]: id=Seal, race=monster
@@ -184,30 +184,30 @@ msgstr ""
 msgid ""
 "Trained seals are an important part of the military, as they enable these "
 "Elves to control the seas. The use of aquatic allies is also helpful in the "
-"hunt, as it provien_GBs the Issaelfr with wien_GBr access to the bounty of the "
+"hunt, as it provides the Issaelfr with wider access to the bounty of the "
 "seas."
 msgstr ""
 
-#. [attack]: type=blaen_GB
-#: Imperial_Era/units/animals/Seal_Elen_GBr.cfg:23
+#. [attack]: type=blade
+#: Imperial_Era/units/animals/Seal_Elder.cfg:23
 #: Imperial_Era/units/animals/Seal.cfg:23
 #: Imperial_Era/units/animals/Seal_Fleet.cfg:23
 msgid "bite"
 msgstr ""
 
-#. [unit_type]: id=Elen_GBr Seal, race=monster
-#: Imperial_Era/units/animals/Seal_Elen_GBr.cfg:4
-msgid "Elen_GBr Seal"
+#. [unit_type]: id=Elder Seal, race=monster
+#: Imperial_Era/units/animals/Seal_Elder.cfg:4
+msgid "Elder Seal"
 msgstr ""
 
-#. [unit_type]: id=Elen_GBr Seal, race=monster
-#: Imperial_Era/units/animals/Seal_Elen_GBr.cfg:19
+#. [unit_type]: id=Elder Seal, race=monster
+#: Imperial_Era/units/animals/Seal_Elder.cfg:19
 msgid ""
-"When a seal slays a mann in battle, it is rewaren_GBd by its elven trainer with "
+"When a seal slays a mann in battle, it is rewarded by its elven trainer with "
 "many fish, an opportunity to mate, and a small toy - for the seals are but "
-"dumb animals, and if they do not expect to be rewaren_GBd, they will flee the "
-"battlefield in terror, diving down to the en_GBpths of the ocean out of reach "
-"of both enemy and erstwhile friend. An Elen_GBr Seal has had many feasts, many "
+"dumb animals, and if they do not expect to be rewarded, they will flee the "
+"battlefield in terror, diving down to the depths of the ocean out of reach "
+"of both enemy and erstwhile friend. An Elder Seal has had many feasts, many "
 "offspring, and has accumulated a great many toys - though it does not play "
 "with the latter so muchas one might expect, for it has learnt to love "
 "battle, and would rather fight than live in peace in the breeding pens of "
@@ -239,22 +239,22 @@ msgstr ""
 msgid ""
 "It is not clear why the Dragonguards are called what they are, a name given "
 "by their dwarven brethren. Some speculate that the name comes from their "
-"weapon of choice, these strange staves that belch fire and en_GBath. Others "
+"weapon of choice, these strange staves that belch fire and death. Others "
 "have surmised that it is because such weapons would be a threat against even "
 "a true Dragon, should such a thing be seen again in the known world. "
 "Whatever the case, it is for these weapons that the guardians of the great "
-"Cavernei citaen_GBls are both renowned and feared; weapons that have broken the "
+"Cavernei citadels are both renowned and feared; weapons that have broken the "
 "mightiest of warriors in a single blow."
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #. [attack]: type=pierce
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrer.cfg:41
+#: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:41
 #: Imperial_Era/units/dwarves-cavernei/Dragonguard.cfg:25
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrguard.cfg:25
+#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:25
 #: Imperial_Era/units/elves-frost/Mistral_Cryomancer.cfg:27
 #: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:26
-#: Imperial_Era/units/elves-frost/Blaen_GBsman.cfg:31
+#: Imperial_Era/units/elves-frost/Bladesman.cfg:31
 msgid "dagger"
 msgstr ""
 
@@ -276,22 +276,22 @@ msgid ""
 "earth-bound tremble, for these mighty pairs may strike from anywhere."
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Master.cfg:28
-#: Imperial_Era/units/dwarves-cavernei/Eagle_Rien_GBr.cfg:28
+#: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:28
 msgid "claws"
 msgstr ""
 
-#. [unit_type]: id=Cavernei Eagle Rien_GBr, race=cavernei
-#: Imperial_Era/units/dwarves-cavernei/Eagle_Rien_GBr.cfg:5
-msgid "Eagle Rien_GBr"
+#. [unit_type]: id=Cavernei Eagle Rider, race=cavernei
+#: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:5
+msgid "Eagle Rider"
 msgstr ""
 
-#. [unit_type]: id=Cavernei Eagle Rien_GBr, race=cavernei
-#: Imperial_Era/units/dwarves-cavernei/Eagle_Rien_GBr.cfg:20
+#. [unit_type]: id=Cavernei Eagle Rider, race=cavernei
+#: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:20
 msgid ""
 "Only a few are able to bond with the mighty Eagles. Those who do may become "
-"Eagle Rien_GBrs, and discover the world of the skies upon the backs of these "
+"Eagle Riders, and discover the world of the skies upon the backs of these "
 "flying beasts."
 msgstr ""
 
@@ -305,20 +305,20 @@ msgstr ""
 msgid ""
 "Cavernei Fighters wield mighty battle axes and hammers, which make them "
 "feared opponents in close range combat. They are excellent in mountainous "
-"terrain or unen_GBrground. Though not swift, their power and endurance more "
+"terrain or underground. Though not swift, their power and endurance more "
 "than compensate."
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:28
-#: Imperial_Era/units/human-marauen_GBrs/Sailor.cfg:22
-#: Imperial_Era/units/human-marauen_GBrs/Raien_GBr.cfg:52
-#: Imperial_Era/units/human-marauen_GBrs/Scout.cfg:40
-#: Imperial_Era/units/human-marauen_GBrs/Boatsman.cfg:21
-#: Imperial_Era/units/human-marauen_GBrs/Axeman.cfg:46
-#: Imperial_Era/units/human-marauen_GBrs/Woodsman.cfg:25
-#: Imperial_Era/units/human-marauen_GBrs/Sea_Wolf.cfg:22
-#: Imperial_Era/units/human-marauen_GBrs/Hunter.cfg:24
+#: Imperial_Era/units/human-marauders/Sailor.cfg:22
+#: Imperial_Era/units/human-marauders/Raider.cfg:52
+#: Imperial_Era/units/human-marauders/Scout.cfg:40
+#: Imperial_Era/units/human-marauders/Boatsman.cfg:21
+#: Imperial_Era/units/human-marauders/Axeman.cfg:46
+#: Imperial_Era/units/human-marauders/Woodsman.cfg:25
+#: Imperial_Era/units/human-marauders/Sea_Wolf.cfg:22
+#: Imperial_Era/units/human-marauders/Hunter.cfg:24
 msgid "axe"
 msgstr ""
 
@@ -341,7 +341,7 @@ msgstr ""
 msgid ""
 "The most resilient dwarves sometimes join the Cavernei army as Guardsmen. "
 "Slow and without a strong attack, they guard the Army's flank, soaking up a "
-"lot of damage, and hurling heavy spears for en_GBfense.\n"
+"lot of damage, and hurling heavy spears for defense.\n"
 "\n"
 "Special Notes:"
 msgstr ""
@@ -350,7 +350,7 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:41
 #: Imperial_Era/units/dwarves-cavernei/Stalwart.cfg:36
 #: Imperial_Era/units/dwarves-cavernei/Guardsman.cfg:33
-#: Imperial_Era/units/elves-wild/Wanen_GBrer.cfg:31
+#: Imperial_Era/units/elves-wild/Wanderer.cfg:31
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:34
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:46
 #: Imperial_Era/units/elves-wild/Tracker.cfg:33
@@ -367,8 +367,8 @@ msgstr ""
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:37
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:56
 #: Imperial_Era/units/human-nemidians/River_Horse.cfg:31
-#: Imperial_Era/units/human-marauen_GBrs/Shieldmaien_GBn.cfg:46
-#: Imperial_Era/units/human-marauen_GBrs/Valkyrie.cfg:24
+#: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:46
+#: Imperial_Era/units/human-marauders/Valkyrie.cfg:24
 msgid "spear"
 msgstr ""
 
@@ -376,7 +376,7 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:50
 #: Imperial_Era/units/dwarves-cavernei/Stalwart.cfg:45
 #: Imperial_Era/units/dwarves-cavernei/Guardsman.cfg:42
-#: Imperial_Era/units/elves-wild/Wanen_GBrer.cfg:40
+#: Imperial_Era/units/elves-wild/Wanderer.cfg:40
 #: Imperial_Era/units/human-lavinians/Velite.cfg:41
 #: Imperial_Era/units/human-lavinians/Skirmisher.cfg:38
 msgid "javelin"
@@ -398,28 +398,28 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Cavernei Lord, race=cavernei
-#. [unit_type]: id=Marauen_GBr Lord, race=marauen_GBr
+#. [unit_type]: id=Marauder Lord, race=marauder
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:5
-#: Imperial_Era/units/human-marauen_GBrs/Lord.cfg:5
+#: Imperial_Era/units/human-marauders/Lord.cfg:5
 msgid "Lord"
 msgstr ""
 
 #. [unit_type]: id=Cavernei Lord, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:20
 msgid ""
-"Clad in shining armor, these dwarves look like kings from unen_GBr the "
+"Clad in shining armor, these dwarves look like kings from under the "
 "mountains. They wield axe and hammer with masterful skill, and can hit a "
 "target with a thrown hand axe at several paces. Though slow on their feet, "
 "these dwarves are a testament to the prowess of their kin."
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:30
 #: Imperial_Era/units/dwarves-cavernei/Steelclad.cfg:29
 msgid "battle axe"
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:47
 msgid "hatchet"
 msgstr ""
@@ -432,7 +432,7 @@ msgstr ""
 #. [unit_type]: id=Cavernei Monitor, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Monitor.cfg:21
 msgid ""
-"News travels quickly unen_GBrground. It is almost as if the dwarves saw "
+"News travels quickly underground. It is almost as if the dwarves saw "
 "everything as it was happening and somehow relayed the information across "
 "thousands of miles in but a few minutes. But for that to happen, the "
 "cavernei would need to monitor every battlefield, every royal court, every "
@@ -441,7 +441,7 @@ msgid ""
 "above. Their report would then somehow disseminate throughout the entire "
 "realm of the dwarves in a matter of hours.\n"
 "\n"
-"The whole ien_GBa is, of course, absurd. Even if the dwarves do have merchants "
+"The whole idea is, of course, absurd. Even if the dwarves do have merchants "
 "spread across the continent in almost every major city, it would be simply "
 "impossible for these merchants to travel to the dwarven lands and back and "
 "not be noticed."
@@ -471,9 +471,9 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Observer.cfg:18
 msgid ""
 "It has happened more than once that, on a raging battlefield, one of the "
-"commanen_GBrs would spot a dwarf merchant a small distance away from two sien_GBs, "
+"commanders would spot a dwarf merchant a small distance away from two sides, "
 "calmly watching them fight, apparently unafraid for his life or his goods. "
-"Occasionally the commanen_GBr has sent his own troops to investigate. When they "
+"Occasionally the commander has sent his own troops to investigate. When they "
 "reached the dwarf, if he was still there, which he often was not, they would "
 "find him well-armed and looking surprisingly martial, but always 'just "
 "passing through'. Never has anything conclusive been discovered about these "
@@ -509,7 +509,7 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:22
 msgid ""
 "The Sentinel, with his tower shield and great courage, refuses to yield "
-"unen_GBr even the strongest of enemy attacks.\n"
+"under even the strongest of enemy attacks.\n"
 "\n"
 "Special Notes:"
 msgstr ""
@@ -541,42 +541,42 @@ msgid ""
 "plate armor, for which they are rightly famous."
 msgstr ""
 
-#. [unit_type]: id=Cavernei Thunen_GBrer, race=cavernei
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrer.cfg:5
-msgid "Thunen_GBrer"
+#. [unit_type]: id=Cavernei Thunderer, race=cavernei
+#: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:5
+msgid "Thunderer"
 msgstr ""
 
-#. [unit_type]: id=Cavernei Thunen_GBrer, race=cavernei
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrer.cfg:19
+#. [unit_type]: id=Cavernei Thunderer, race=cavernei
+#: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:19
 msgid ""
-"When the Marauen_GBrs first encountered the dwarves, they were mystified by the "
-"power of the Cavernei Thunen_GBrers, who were able to hurl en_GBath from afar "
+"When the Marauders first encountered the dwarves, they were mystified by the "
+"power of the Cavernei Thunderers, who were able to hurl death from afar "
 "through the apparatus of these strange ... 'wands' they carried into battle."
 msgstr ""
 
 #. [attack]: type=pierce
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrer.cfg:50
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrguard.cfg:34
-msgid "thunen_GBrstick"
+#: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:50
+#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:34
+msgid "thunderstick"
 msgstr ""
 
-#. [unit_type]: id=Cavernei Thunen_GBrguard, race=cavernei
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrguard.cfg:5
-msgid "Thunen_GBrguard"
+#. [unit_type]: id=Cavernei Thunderguard, race=cavernei
+#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:5
+msgid "Thunderguard"
 msgstr ""
 
-#. [unit_type]: id=Cavernei Thunen_GBrguard, race=cavernei
-#: Imperial_Era/units/dwarves-cavernei/Thunen_GBrguard.cfg:20
+#. [unit_type]: id=Cavernei Thunderguard, race=cavernei
+#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:20
 msgid ""
-"The Cavernei Thunen_GBrguards are famed for their curious weaponry, these "
-"strange staves of wood and iron that make a thunen_GBrous noise in their anger. "
+"The Cavernei Thunderguards are famed for their curious weaponry, these "
+"strange staves of wood and iron that make a thunderous noise in their anger. "
 "The machinations behind this weaponry are a mystery, a secret taken to the "
 "grave by the dwarves who wield them, and are assumed to have even forged "
 "them. The most that is known are reports of dwarves pouring a strange black "
 "dust into the mouth of their weapons, which some say is a food to fuel the "
 "beast imprisoned within.\n"
 "\n"
-"Though a single shot from these 'thunen_GBrsticks' can take several minutes to "
+"Though a single shot from these 'thundersticks' can take several minutes to "
 "prepare, the results are seen by the Dwarves as being well worth the wait."
 msgstr ""
 
@@ -589,13 +589,13 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:18
 msgid ""
 "Scattered across the continent of Evrosia are certain wells that do not lead "
-"down to water. Build by the hiden_GBn folk, they serve as a sort of doorbell - "
+"down to water. Build by the hidden folk, they serve as a sort of doorbell - "
 "if a surface-dweller drops something into one of these wells, the dwarves "
 "will soon know of it, and will either send one of their merchants up to the "
 "surface to speak with them, or not. Somehow the dwarves know before "
 "revealing themselves whether or not the person on the surface is one they "
 "wish to converse with. They are thought to watch the areas around where the "
-"wells are found. Many suspect they watch a much broaen_GBr swath of land."
+"wells are found. Many suspect they watch a much broader swath of land."
 msgstr ""
 
 #. [unit_type]: id=Frost Elf Alpine Ranger, race=issaelfr
@@ -607,22 +607,22 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:23
 msgid ""
 "The mountains of the Issaelfr are dangerous to cross on foot, and most menn "
-"must take great care when doing so to avoid plummeting to their en_GBath in "
-"hiden_GBn crevasses or sliding down steep and slippery embankments. The Alpine "
+"must take great care when doing so to avoid plummeting to their death in "
+"hidden crevasses or sliding down steep and slippery embankments. The Alpine "
 "Rangers, however, have such skill at mountaineering that they can move "
 "almost as fast on treacherous mountains as they do on even ground. "
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/elves-wild/Tempest.cfg:43
-#: Imperial_Era/units/elves-wild/Veiledblaen_GB.cfg:23
+#: Imperial_Era/units/elves-wild/Veiledblade.cfg:23
 #: Imperial_Era/units/elves-wild/Wardancer.cfg:25
-#: Imperial_Era/units/elves-wild/Wildblaen_GB.cfg:27
+#: Imperial_Era/units/elves-wild/Wildblade.cfg:27
 #: Imperial_Era/units/elves-wild/Shadowdancer.cfg:24
 #: Imperial_Era/units/elves-wild/Warrior.cfg:24
 #: Imperial_Era/units/elves-wild/Fury.cfg:27
 #: Imperial_Era/units/elves-wild/Warmage.cfg:24
-#: Imperial_Era/units/elves-wild/Blaen_GBspinner.cfg:24
+#: Imperial_Era/units/elves-wild/Bladespinner.cfg:24
 #: Imperial_Era/units/elves-wild/Warsinger.cfg:28
 #: Imperial_Era/units/elves-wild/Raindancer.cfg:76
 #: Imperial_Era/units/elves-wild/Herald.cfg:27
@@ -633,26 +633,26 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Ice_Dancer.cfg:26
 #: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:27
 #: Imperial_Era/units/elves-frost/Archer.cfg:23
-#: Imperial_Era/units/elves-frost/Blaen_GBsman.cfg:22
+#: Imperial_Era/units/elves-frost/Bladesman.cfg:22
 #: Imperial_Era/units/elves-frost/Ice_Roamer.cfg:25
-#: Imperial_Era/units/human-marauen_GBrs/Lord.cfg:26
-#: Imperial_Era/units/human-marauen_GBrs/Warrior.cfg:50
-#: Imperial_Era/units/human-marauen_GBrs/Pillager.cfg:50
-#: Imperial_Era/units/human-marauen_GBrs/Jarl.cfg:25
-#: Imperial_Era/units/human-marauen_GBrs/Scorcher.cfg:51
+#: Imperial_Era/units/human-marauders/Lord.cfg:26
+#: Imperial_Era/units/human-marauders/Warrior.cfg:50
+#: Imperial_Era/units/human-marauders/Pillager.cfg:50
+#: Imperial_Era/units/human-marauders/Jarl.cfg:25
+#: Imperial_Era/units/human-marauders/Scorcher.cfg:51
 #: Imperial_Era/units/human-arendians/Feather_Bow.cfg:30
 #: Imperial_Era/units/human-arendians/Chief.cfg:26
 #: Imperial_Era/units/human-arendians/Bowmaster.cfg:24
 #: Imperial_Era/units/human-arendians/Hero.cfg:28
-#: Imperial_Era/units/human-arendians/Boltrien_GBr.cfg:22
+#: Imperial_Era/units/human-arendians/Boltrider.cfg:22
 #: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:24
 #: Imperial_Era/units/human-arendians/Bowknight.cfg:23
-#: Imperial_Era/units/human-arendians/Wanen_GBrer.cfg:27
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:27
 #: Imperial_Era/units/human-arendians/Warlord.cfg:27
 #: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:31
 #: Imperial_Era/units/human-arendians/Swordsman.cfg:23
 #: Imperial_Era/units/human-arendians/Slayer.cfg:25
-#: Imperial_Era/units/human-arendians/Bowrien_GBr.cfg:23
+#: Imperial_Era/units/human-arendians/Bowrider.cfg:23
 #: Imperial_Era/units/human-arendians/Archer.cfg:24
 #: Imperial_Era/units/human-arendians/Horseman.cfg:23
 #: Imperial_Era/units/human-arendians/Hunter.cfg:24
@@ -681,17 +681,17 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Saggitarius.cfg:36
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:25
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:36
-#: Imperial_Era/units/human-marauen_GBrs/Axeman.cfg:55
-#: Imperial_Era/units/human-marauen_GBrs/Woodsman.cfg:34
-#: Imperial_Era/units/human-marauen_GBrs/Hunter.cfg:33
+#: Imperial_Era/units/human-marauders/Axeman.cfg:55
+#: Imperial_Era/units/human-marauders/Woodsman.cfg:34
+#: Imperial_Era/units/human-marauders/Hunter.cfg:33
 #: Imperial_Era/units/human-arendians/Feather_Bow.cfg:39
 #: Imperial_Era/units/human-arendians/Bowmaster.cfg:33
-#: Imperial_Era/units/human-arendians/Boltrien_GBr.cfg:31
+#: Imperial_Era/units/human-arendians/Boltrider.cfg:31
 #: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:33
 #: Imperial_Era/units/human-arendians/Bowknight.cfg:32
 #: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:40
 #: Imperial_Era/units/human-arendians/Slayer.cfg:34
-#: Imperial_Era/units/human-arendians/Bowrien_GBr.cfg:32
+#: Imperial_Era/units/human-arendians/Bowrider.cfg:32
 #: Imperial_Era/units/human-arendians/Archer.cfg:33
 #: Imperial_Era/units/human-arendians/Hunter.cfg:33
 msgid "bow"
@@ -708,19 +708,19 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Archer.cfg:19
 msgid ""
 "Much like their Wood Elf forebears, the Ice Elves highly prize skill at "
-"archery. Those who prove themselves aen_GBpt at this skill can hope to rise "
-"high, and perhaps even become leaen_GBrs of their tribes."
+"archery. Those who prove themselves adept at this skill can hope to rise "
+"high, and perhaps even become leaders of their tribes."
 msgstr ""
 
-#. [unit_type]: id=Frost Elf Blaen_GBsman, race=issaelfr
-#: Imperial_Era/units/elves-frost/Blaen_GBsman.cfg:5
-msgid "Blaen_GBsman"
+#. [unit_type]: id=Frost Elf Bladesman, race=issaelfr
+#: Imperial_Era/units/elves-frost/Bladesman.cfg:5
+msgid "Bladesman"
 msgstr ""
 
-#. [unit_type]: id=Frost Elf Blaen_GBsman, race=issaelfr
-#: Imperial_Era/units/elves-frost/Blaen_GBsman.cfg:18
+#. [unit_type]: id=Frost Elf Bladesman, race=issaelfr
+#: Imperial_Era/units/elves-frost/Bladesman.cfg:18
 msgid ""
-"Blaen_GBsmen are the rank and file of the military, wielding mighty swords that "
+"Bladesmen are the rank and file of the military, wielding mighty swords that "
 "they have inherited from their forebears. They will not allow their people "
 "to fall before their enemies."
 msgstr ""
@@ -750,7 +750,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Gelus, race=issaelfr
 #: Imperial_Era/units/elves-frost/Gelus.cfg:19
 msgid ""
-"The most skilled of archers are promoted to the rank of gelus, a en_GBsignation "
+"The most skilled of archers are promoted to the rank of gelus, a designation "
 "meant to imply the hail of arrows they are capable of unleashing upon the "
 "unwary foe."
 msgstr ""
@@ -764,13 +764,13 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Glaive_Master.cfg:19
 msgid ""
 "The glaive is a curious weapon. It is, essentially, a combination of sword "
-"and spear, with a long blaen_GB and an even longer shaft. But it is more than "
+"and spear, with a long blade and an even longer shaft. But it is more than "
 "that, and only a true expert can really wield a glaive to its full "
 "potential. Rare is the Issaelfr who becomes one, but he who does is a force "
 "to be reckoned with "
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/elves-frost/Glaive_Master.cfg:23
 #: Imperial_Era/units/elves-frost/Glaivier.cfg:22
 msgid "glaive"
@@ -790,13 +790,13 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Glaivier, race=issaelfr
 #: Imperial_Era/units/elves-frost/Glaivier.cfg:18
 msgid ""
-"Not all Blaen_GBsmen are alike. Some choose the path of the solitary ice "
+"Not all Bladesmen are alike. Some choose the path of the solitary ice "
 "roamer, but many others prefer to fight in an organized fashion, lining up "
-"on the field of battle with other likeminen_GBd elves against whatever enemy. "
+"on the field of battle with other likeminded elves against whatever enemy. "
 "These elves quickly see the usefulness of the glaive, for it can act both as "
 "a spear and sword, and so the Issaelfr army does not need to train and equip "
-"a separate group of spearmen - the glavier can fight in the ranks alongsien_GB "
-"blaen_GBsmen, then when a spear is neeen_GBd, they simply use their weapon "
+"a separate group of spearmen - the glavier can fight in the ranks alongside "
+"bladesmen, then when a spear is needed, they simply use their weapon "
 "differently. This great benefit is more than worth the slight inconvenience "
 "of learning a new weapon. "
 msgstr ""
@@ -812,7 +812,7 @@ msgid ""
 "The Issaelfr and Sidhe have many things in common, and among them is a love "
 "for elegance. The Ice Dancer, like so many of his Sidhe brethren, makes "
 "swordsmanship a thing of beauty. The Dancers, though, tend to be rather "
-"aloof from Issaelfr society, and sometimes one wonen_GBrs whether these elves "
+"aloof from Issaelfr society, and sometimes one wonders whether these elves "
 "would not have preferred to live in the groves of Mount Stormkeep rather "
 "than in the frigid wastes of the northern peninsula. "
 msgstr ""
@@ -825,11 +825,11 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Ice Roamer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Ice_Roamer.cfg:21
 msgid ""
-"The most elegant of Blaen_GBsmen become Ice Roamers, and perfect the skill of "
+"The most elegant of Bladesmen become Ice Roamers, and perfect the skill of "
 "fighting upon frozen water. It does come at a price, however, for their "
 "concentration upon the ice leaves them somewhat less prepared to fight upon "
 "other surfaces. Nonetheless, the abundance of icy surfaces in their homeland "
-"makes the traen_GB worthwhile."
+"makes the trade worthwhile."
 msgstr ""
 
 #. [unit_type]: id=Frost Elf Mistral Cryomancer, race=issaelfr
@@ -902,10 +902,10 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Castellan.cfg:23
 msgid ""
 "It is rumored that the Rime Castellans have captured the wind and hold it "
-"prisoner, but when asked, they en_GBny this, saying they carry with them only "
+"prisoner, but when asked, they deny this, saying they carry with them only "
 "the power to summon the wind, not the wind itself. Either way, it is clear "
 "that the Mistral Rime Castellans have immense power at their disposal, able "
-"to en_GBath out life and en_GBath as they choose. "
+"to death out life and death as they choose. "
 msgstr ""
 
 #. [unit_type]: id=Frost Elf Mistral Rime Keeper, race=issaelfr
@@ -929,7 +929,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Mountaineer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:22
 msgid ""
-"Those Archers who prove themselves worthy, and en_GBmonstrate leaen_GBrship "
+"Those Archers who prove themselves worthy, and demonstrate leadership "
 "ability, are promoted to the ranks of the Mountaineers. Hardy warriors who "
 "can withstand the elements, and perform well in the mountains and hills as "
 "well as in the ice and snow, they will do all they can to help their people "
@@ -944,7 +944,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Yak Knight, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:20
 msgid ""
-"The wilen_GBrness of Alfenheim is hard to travel if on foot, and impossible if "
+"The wilderness of Alfenheim is hard to travel if on foot, and impossible if "
 "mounted on a horse - it simply cannot keep its footing on the treacherous "
 "passes of the northern mountains. The Issaelfr have solved this problem by "
 "taming the yaks native to that land and riding them. They have found them "
@@ -953,7 +953,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:25
-#: Imperial_Era/units/elves-frost/Yak_Rien_GBr.cfg:24
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:24
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:24
 msgid "horns"
 msgstr ""
@@ -961,23 +961,23 @@ msgstr ""
 #. [attack]: type=pierce
 #: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:37
 #: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:46
-#: Imperial_Era/units/elves-frost/Yak_Rien_GBr.cfg:36
-#: Imperial_Era/units/elves-frost/Yak_Rien_GBr.cfg:45
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:36
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:45
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:36
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:45
 msgid "harpoon"
 msgstr ""
 
-#. [unit_type]: id=Frost Elf Yak Rien_GBr, race=issaelfr
-#: Imperial_Era/units/elves-frost/Yak_Rien_GBr.cfg:6
-msgid "Yak Rien_GBr"
+#. [unit_type]: id=Frost Elf Yak Rider, race=issaelfr
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:6
+msgid "Yak Rider"
 msgstr ""
 
-#. [unit_type]: id=Frost Elf Yak Rien_GBr, race=issaelfr
-#: Imperial_Era/units/elves-frost/Yak_Rien_GBr.cfg:20
+#. [unit_type]: id=Frost Elf Yak Rider, race=issaelfr
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:20
 msgid ""
 "Some Ice Elves have tamed wild yaks, which they now use as mounts. Though "
-"other races cannot unen_GBrstand their predilection for these odd beasts, and "
+"other races cannot understand their predilection for these odd beasts, and "
 "cannot imagine riding them, the cavalry is rightly feared for their cold "
 "efficiency."
 msgstr ""
@@ -994,51 +994,51 @@ msgid ""
 "people - the Sidhe never adopted mounts - and so it was not with the aim of "
 "finding a substitute for the no longer useful horse that the Issaelfr tamed "
 "the wild yak. It was because the northernmost settlements of the Issaelfr "
-"could not be supplied without a beast of buren_GBn of some kind. The Issaelfr "
+"could not be supplied without a beast of burden of some kind. The Issaelfr "
 "soon learned of the usefulness of mounts in battle as well, and eventually "
 "the elves were experts at the use of this nontraditional cavalry."
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Blaen_GBspinner, race=sidhe
-#: Imperial_Era/units/elves-wild/Blaen_GBspinner.cfg:5
-msgid "Blaen_GBspinner"
+#. [unit_type]: id=Wild Elf Bladespinner, race=sidhe
+#: Imperial_Era/units/elves-wild/Bladespinner.cfg:5
+msgid "Bladespinner"
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Blaen_GBspinner, race=sidhe
-#: Imperial_Era/units/elves-wild/Blaen_GBspinner.cfg:19
+#. [unit_type]: id=Wild Elf Bladespinner, race=sidhe
+#: Imperial_Era/units/elves-wild/Bladespinner.cfg:19
 msgid ""
-"The better warriors of the sidhe are known as blaen_GBspinners. They can, it is "
+"The better warriors of the sidhe are known as bladespinners. They can, it is "
 "said, cut a man in three different places before he will lift his weapon."
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Dark Thunen_GBrblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Dark_Thunen_GBrblaen_GB.cfg:5
-msgid "Dark Thunen_GBrblaen_GB"
+#. [unit_type]: id=Wild Elf Dark Thunderblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:5
+msgid "Dark Thunderblade"
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Dark Thunen_GBrblaen_GB, race=sidhe
-#. [unit_type]: id=Wild Elf Thunen_GBrblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Dark_Thunen_GBrblaen_GB.cfg:19
-#: Imperial_Era/units/elves-wild/Thunen_GBrblaen_GB.cfg:19
+#. [unit_type]: id=Wild Elf Dark Thunderblade, race=sidhe
+#. [unit_type]: id=Wild Elf Thunderblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:19
+#: Imperial_Era/units/elves-wild/Thunderblade.cfg:19
 msgid ""
 "When the first sidhe lord died in battle, the shards of his mighty sword "
 "were collected and kept preciously by the fines wild elf mages. If a sidhe "
 "shows himself a great warrior and has the magic of the nobleborn, he might "
-"be awaren_GBd a thunen_GBrblaen_GB, a special sword enchanted with a fragment of the "
+"be awarded a thunderblade, a special sword enchanted with a fragment of the "
 "sidhe lord's great weapon."
 msgstr ""
 
-#. [attack]: type=blaen_GB
-#: Imperial_Era/units/elves-wild/Dark_Thunen_GBrblaen_GB.cfg:24
-msgid "dark thunen_GBrblaen_GB"
+#. [attack]: type=blade
+#: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:24
+msgid "dark thunderblade"
 msgstr ""
 
 #. [attack]: type=energy
 #: Imperial_Era/units/elves-wild/Tempest.cfg:52
-#: Imperial_Era/units/elves-wild/Dark_Thunen_GBrblaen_GB.cfg:36
+#: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:36
 #: Imperial_Era/units/elves-wild/Stormlord.cfg:33
 #: Imperial_Era/units/elves-wild/Warmage.cfg:33
-#: Imperial_Era/units/elves-wild/Thunen_GBrblaen_GB.cfg:36
+#: Imperial_Era/units/elves-wild/Thunderblade.cfg:36
 #: Imperial_Era/units/elves-wild/Raindancer.cfg:85
 #: Imperial_Era/units/elves-wild/Windlasher.cfg:52
 msgid "lightning"
@@ -1055,7 +1055,7 @@ msgid ""
 "The wild elf furies do not wield an extraordinarily powerful weapon, but "
 "they are dangerous nonetheless. Their swiftness allows them to pass enemies "
 "as closely as they like, and their dagger has been felt in the heart of many "
-"a supposedly well-guaren_GBd mage."
+"a supposedly well-guarded mage."
 msgstr ""
 
 #. [unit_type]: id=Wild Elf Herald, race=sidhe
@@ -1126,18 +1126,18 @@ msgstr ""
 #: Imperial_Era/units/elves-wild/Tempest.cfg:18
 msgid ""
 "The Tempest aims to make his magic live up to his name. He calls down "
-"lightning from the sky, using magic whose raw en_GBstructive power is almost "
+"lightning from the sky, using magic whose raw destructive power is almost "
 "unequaled."
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Thunen_GBrblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Thunen_GBrblaen_GB.cfg:5
-msgid "Thunen_GBrblaen_GB"
+#. [unit_type]: id=Wild Elf Thunderblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Thunderblade.cfg:5
+msgid "Thunderblade"
 msgstr ""
 
-#. [attack]: type=blaen_GB
-#: Imperial_Era/units/elves-wild/Thunen_GBrblaen_GB.cfg:24
-msgid "thunen_GBrblaen_GB"
+#. [attack]: type=blade
+#: Imperial_Era/units/elves-wild/Thunderblade.cfg:24
+msgid "thunderblade"
 msgstr ""
 
 #. [unit_type]: id=Wild Elf Tracker, race=sidhe
@@ -1152,35 +1152,35 @@ msgid ""
 "skilled in both hand to hand and ranged combat when using short spears.\n"
 "\n"
 "Special notes: Their primary spear they coat with the sap of a certain "
-"shrub, giving it a poisonous tinge, but they would consien_GBr it cowardly to "
+"shrub, giving it a poisonous tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Veiledblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Veiledblaen_GB.cfg:5
-msgid "Veiledblaen_GB"
+#. [unit_type]: id=Wild Elf Veiledblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Veiledblade.cfg:5
+msgid "Veiledblade"
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Veiledblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Veiledblaen_GB.cfg:18
+#. [unit_type]: id=Wild Elf Veiledblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Veiledblade.cfg:18
 msgid ""
-"Not all sidhe like to fight up front. The shadowy veiledblaen_GBs can slip in "
-"through the enemy's en_GBfense, and stealthily hit an unexpecting foe, often "
+"Not all sidhe like to fight up front. The shadowy veiledblades can slip in "
+"through the enemy's defense, and stealthily hit an unexpecting foe, often "
 "mortally so."
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Wanen_GBrer, race=sidhe
-#. [unit_type]: id=Arendian Wanen_GBrer, race=arendian
-#: Imperial_Era/units/elves-wild/Wanen_GBrer.cfg:5
-#: Imperial_Era/units/human-arendians/Wanen_GBrer.cfg:5
-msgid "Wanen_GBrer"
+#. [unit_type]: id=Wild Elf Wanderer, race=sidhe
+#. [unit_type]: id=Arendian Wanderer, race=arendian
+#: Imperial_Era/units/elves-wild/Wanderer.cfg:5
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:5
+msgid "Wanderer"
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Wanen_GBrer, race=sidhe
-#: Imperial_Era/units/elves-wild/Wanen_GBrer.cfg:23
+#. [unit_type]: id=Wild Elf Wanderer, race=sidhe
+#: Imperial_Era/units/elves-wild/Wanderer.cfg:23
 msgid ""
 "The sidhe sometimes have elves more lonesome among them who prefer the "
-"tracking and scouting to actual combat. These, known as wanen_GBrers, are armed "
+"tracking and scouting to actual combat. These, known as wanderers, are armed "
 "with short spears that they use quite ... convincingly, though their real "
 "usefulness is for running ahead."
 msgstr ""
@@ -1193,7 +1193,7 @@ msgstr ""
 #. [unit_type]: id=Wild Elf Wardancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Wardancer.cfg:20
 msgid ""
-"Wardancers are legends among the sidhe. The skill of a blaen_GBspinner may seem "
+"Wardancers are legends among the sidhe. The skill of a bladespinner may seem "
 "unbelievable, but he is an amateur compared to a mighty wardancer. For a man "
 "will be killed 3 times over before he touches the ground."
 msgstr ""
@@ -1213,10 +1213,10 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Wild Elf Warrior, race=sidhe
-#. [unit_type]: id=Marauen_GBr Warrior, race=marauen_GBr
+#. [unit_type]: id=Marauder Warrior, race=marauder
 #. [unit_type]: id=Arendian Warrior, race=arendian
 #: Imperial_Era/units/elves-wild/Warrior.cfg:5
-#: Imperial_Era/units/human-marauen_GBrs/Warrior.cfg:5
+#: Imperial_Era/units/human-marauders/Warrior.cfg:5
 #: Imperial_Era/units/human-arendians/Warrior.cfg:5
 msgid "Warrior"
 msgstr ""
@@ -1224,7 +1224,7 @@ msgstr ""
 #. [unit_type]: id=Wild Elf Warrior, race=sidhe
 #: Imperial_Era/units/elves-wild/Warrior.cfg:19
 msgid ""
-"The lithe and strong Sidhe warriors are en_GBadly swordsmen, capable of en_GBaling "
+"The lithe and strong Sidhe warriors are deadly swordsmen, capable of dealing "
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
@@ -1254,18 +1254,18 @@ msgid ""
 "to. His skills lie elsewhere."
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Wildblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Wildblaen_GB.cfg:5
-msgid "Wildblaen_GB"
+#. [unit_type]: id=Wild Elf Wildblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Wildblade.cfg:5
+msgid "Wildblade"
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Wildblaen_GB, race=sidhe
-#: Imperial_Era/units/elves-wild/Wildblaen_GB.cfg:18
+#. [unit_type]: id=Wild Elf Wildblade, race=sidhe
+#: Imperial_Era/units/elves-wild/Wildblade.cfg:18
 msgid ""
-"There are many capable of taking down the wildblaen_GB in direct combat, but "
+"There are many capable of taking down the wildblade in direct combat, but "
 "the sidhe do not see this as a problem. The swiftness of these warriors "
 "allows them to avoid direct combat, instead going unnoticed through the "
-"battlefront and killing the wounen_GBd."
+"battlefront and killing the wounded."
 msgstr ""
 
 #. [unit_type]: id=Wild Elf Windlasher, race=sidhe
@@ -1278,11 +1278,11 @@ msgstr ""
 msgid ""
 "Those Raindancers who wish to focus all of their energy on the study of "
 "magic must follow the path of the Windlasher. They do not have the master-"
-"stuen_GBnt relationship of the Thunen_GBrblaen_GBs, for magic, the Sidhe believe, is "
+"student relationship of the Thunderblades, for magic, the Sidhe believe, is "
 "best learned alone. A Windlasher, who has aleady learned the fundamentals of "
 "their art from the school at Mount Stormkeep, will continue his studies in "
 "isolation - even if he continues living in the city at Stormkeep, he will "
-"spend most of his days locked in his garen_GBn en_GBep in contemplation."
+"spend most of his days locked in his garden deep in contemplation."
 msgstr ""
 
 #. [unit_type]: id=Wild Elf Windrunner, race=sidhe
@@ -1298,7 +1298,7 @@ msgid ""
 "hand to hand, are amazing.\n"
 "\n"
 "Special notes: Their primary spear they coat with the sap of a certain "
-"shrub, giving it a poisonout tinge, but they would consien_GBr it cowardly to "
+"shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
 
@@ -1309,7 +1309,7 @@ msgid ""
 "time. Training neww archers is never a priority. This means that any archers "
 "who do join the clan's army in times of need are usually hunters from the "
 "clans or towns, those already familiar with their weapons. They have little "
-"to no armour, and whatever bow they use at their homes, typically a handmaen_GB "
+"to no armour, and whatever bow they use at their homes, typically a handmade "
 "hunting bow, or a family heirloom. They are also normally expected to hunt "
 "for their own food, and supply their own arrows.\n"
 " But in the end all of this is worth it, for any archers who do get accepted "
@@ -1333,7 +1333,7 @@ msgid ""
 "known as arrow winds. Nowadays the appelation has come to refer to the sound "
 "of their arrows. Capable of putting three arrows in the air before the first "
 "has hit the target, the sound of so many arrows in flight is likened to a "
-"rushing wind of en_GBath over the battlefield."
+"rushing wind of death over the battlefield."
 msgstr ""
 
 #. [unit_type]: id=Arendian Battlear, race=arendian
@@ -1345,7 +1345,7 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Battlear.cfg:19
 msgid ""
 "A flail is a much more effective weapon than a mace, however it is also "
-"heavier, more clumsy, and haren_GBr to use, so only the best and strongest "
+"heavier, more clumsy, and harder to use, so only the best and strongest "
 "fighters use them. These fighters are also the only ones given full body "
 "armour, because their flails are so clumsy, and they are so stong by now "
 "anyway, that the reduced mobility and extra weight doesn't matter."
@@ -1356,16 +1356,16 @@ msgstr ""
 msgid "flail"
 msgstr ""
 
-#. [unit_type]: id=Arendian Boltrien_GBr, race=arendian
-#: Imperial_Era/units/human-arendians/Boltrien_GBr.cfg:5
-msgid "Boltrien_GBr"
+#. [unit_type]: id=Arendian Boltrider, race=arendian
+#: Imperial_Era/units/human-arendians/Boltrider.cfg:5
+msgid "Boltrider"
 msgstr ""
 
-#. [unit_type]: id=Arendian Boltrien_GBr, race=arendian
-#: Imperial_Era/units/human-arendians/Boltrien_GBr.cfg:17
+#. [unit_type]: id=Arendian Boltrider, race=arendian
+#: Imperial_Era/units/human-arendians/Boltrider.cfg:17
 msgid ""
 "Shooting a bow from horseback is almost guaranteed to be less effective than "
-"with two feet planted firmly on the ground, but the Boltrien_GBr en_GBvotes his "
+"with two feet planted firmly on the ground, but the Boltrider devotes his "
 "energies to reducing the gap as much as is humanly possible."
 msgstr ""
 
@@ -1379,8 +1379,8 @@ msgstr ""
 msgid ""
 "Bowknights are usually minor lords in east of Arendia. Here there are huge "
 "trackts of land, but barren land. This has led to huge problem with bandits "
-"in these areas, and so the experienced bowrien_GBrs, because they are most used "
-"to hunting down bandits, are placed in charge of law an oren_GBr in the area."
+"in these areas, and so the experienced bowriders, because they are most used "
+"to hunting down bandits, are placed in charge of law an order in the area."
 msgstr ""
 
 #. [unit_type]: id=Arendian Bowmaster, race=arendian
@@ -1392,7 +1392,7 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Bowmaster.cfg:19
 msgid ""
 "Bowmasters are the lords of eastern Arendia and all the bowknights  answer "
-"to them, and the bowrien_GBrs to them. This means that a Bowmaster can, at any "
+"to them, and the bowriders to them. This means that a Bowmaster can, at any "
 "one time, have thousands of men at his disposal something which the crown "
 "has been all too aware of ever since the great upriseing. when the bowmaster "
 "rose up because taxes were so intollerably high, men charged with killing "
@@ -1400,15 +1400,15 @@ msgid ""
 "rich settlments."
 msgstr ""
 
-#. [unit_type]: id=Arendian Bowrien_GBr, race=arendian
-#: Imperial_Era/units/human-arendians/Bowrien_GBr.cfg:5
-msgid "Bowrien_GBr"
+#. [unit_type]: id=Arendian Bowrider, race=arendian
+#: Imperial_Era/units/human-arendians/Bowrider.cfg:5
+msgid "Bowrider"
 msgstr ""
 
-#. [unit_type]: id=Arendian Bowrien_GBr, race=arendian
-#: Imperial_Era/units/human-arendians/Bowrien_GBr.cfg:18
+#. [unit_type]: id=Arendian Bowrider, race=arendian
+#: Imperial_Era/units/human-arendians/Bowrider.cfg:18
 msgid ""
-"Bowrien_GBrs come only from the eastern part of Arendia, here they are hunters, "
+"Bowriders come only from the eastern part of Arendia, here they are hunters, "
 "as a horse is the only thing which can keep up with prey in savanna that "
 "covers the area, this means that they have had huge amounts of practice "
 "fireing bows form horses backs, and form an invaluable part of Arendias "
@@ -1425,10 +1425,10 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Chief.cfg:21
 msgid ""
 "The horsemen of western Arendia band into clans comprised for the most part "
-"of extenen_GBd families, and the chieftain of a clan is usually the elen_GBst fit "
-"male. While the bowrien_GBrs comprise half of the clan's military might, the "
-"courage and example of the chief neither can nor should be unen_GBrestimated, "
-"and have often snatched victory from the jaws of en_GBfeat "
+"of extended families, and the chieftain of a clan is usually the eldest fit "
+"male. While the bowriders comprise half of the clan's military might, the "
+"courage and example of the chief neither can nor should be underestimated, "
+"and have often snatched victory from the jaws of defeat "
 msgstr ""
 
 #. [unit_type]: id=Arendian Druid, race=arendian
@@ -1448,9 +1448,9 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-marauen_GBrs/Fay.cfg:47
-#: Imperial_Era/units/human-marauen_GBrs/Seeress.cfg:23
-#: Imperial_Era/units/human-marauen_GBrs/Galdra.cfg:24
+#: Imperial_Era/units/human-marauders/Fay.cfg:47
+#: Imperial_Era/units/human-marauders/Seeress.cfg:23
+#: Imperial_Era/units/human-marauders/Galdra.cfg:24
 #: Imperial_Era/units/human-arendians/Druid.cfg:26
 #: Imperial_Era/units/human-arendians/Shaman.cfg:26
 msgid "fist"
@@ -1472,7 +1472,7 @@ msgid ""
 "A result of a rigerous selection process, they are among the best in all the "
 "land. Feather bows have gained their name by the tassel of feathers tied to "
 "the upper and lower parts of their bowstring, a combination of a badge of "
-"office and a silencing en_GBvice for the bowstring. It is also said that when "
+"office and a silencing device for the bowstring. It is also said that when "
 "they fire, the sound is like that of a feather falling... until the arrow "
 "strikes home. Different clans use feathers colored with different dyes."
 msgstr ""
@@ -1485,19 +1485,19 @@ msgstr ""
 #. [unit_type]: id=Arendian Hero, race=arendian
 #: Imperial_Era/units/human-arendians/Hero.cfg:23
 msgid ""
-"Once a wanen_GBrer has regained his honour he has usually done enough for the "
-"good of the people of Arendia that he is regaren_GBd as a hero by those who "
+"Once a wanderer has regained his honour he has usually done enough for the "
+"good of the people of Arendia that he is regarded as a hero by those who "
 "once scorned him. These men have fought in many a battle and usually this "
 "experience is put to good use by a clan in the area, or as bodyguards to the "
 "royal family.\n"
-"Heros are also regaren_GBd as the only people skillful enough to wield double "
-"blaen_GBd swords. These fast agile weapons are the most en_GBadly and sharp in all "
+"Heros are also regarded as the only people skillful enough to wield double "
+"bladed swords. These fast agile weapons are the most deadly and sharp in all "
 "of arenida, forged by royal smiths in the forges of the capital."
 msgstr ""
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/human-arendians/Hero.cfg:37
-#: Imperial_Era/units/human-arendians/Wanen_GBrer.cfg:36
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:36
 msgid "throwing knives"
 msgstr ""
 
@@ -1511,7 +1511,7 @@ msgstr ""
 msgid ""
 "These veterans have more than mastered the difficult art of fighting on "
 "horseback. They have become one with their mounts as they plunge into the "
-"thick of the fray leaving en_GBath in wake of their massive morning stars "
+"thick of the fray leaving death in wake of their massive morning stars "
 msgstr ""
 
 #. [attack]: type=impact
@@ -1535,9 +1535,9 @@ msgid ""
 "rear. "
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Hunter, race=marauen_GBr
+#. [unit_type]: id=Marauder Hunter, race=marauder
 #. [unit_type]: id=Arendian Hunter, race=arendian
-#: Imperial_Era/units/human-marauen_GBrs/Hunter.cfg:5
+#: Imperial_Era/units/human-marauders/Hunter.cfg:5
 #: Imperial_Era/units/human-arendians/Hunter.cfg:5
 msgid "Hunter"
 msgstr ""
@@ -1548,16 +1548,16 @@ msgid ""
 "Hunters are an ancient cult in Arendia. These men used to go out, usually "
 "with only the cloaks on their backs for protection, and hunt the dragons "
 "that lived in and around Arendia. They were known as hunters for they had "
-"not yet found their prey. When they did, and had single-hanen_GBdly killed it, "
+"not yet found their prey. When they did, and had single-handedly killed it, "
 "they became known as slayers. The Arendians have no word for one who has "
 "found a dragon and not slain him, for all such combats were required to be "
-"to the en_GBath, but the closest word would be 'fodir', which translates "
+"to the death, but the closest word would be 'fodir', which translates "
 "roughly as 'food.'\n"
 " Of course these days there are only wyverns for them to hunt and kill, and "
 "few enough of them anyway, but the hunter cult lives on as an unofficial "
 "segment of Arendian clan armies. They operate as advance infantry in special "
-"situations. They do not take oren_GBrs, but must be asked to assist. They are "
-"typically glad to wield their blaen_GBs in Arendian service."
+"situations. They do not take orders, but must be asked to assist. They are "
+"typically glad to wield their blades in Arendian service."
 msgstr ""
 
 #. [attack]: type=fire
@@ -1589,7 +1589,7 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Mounted_Warrior.cfg:18
 msgid ""
 "These horsemen have exchanged their swords for the fearsome morning star. "
-"Feared by even the most resolute legionaires, Mounted Warriors en_GBal "
+"Feared by even the most resolute legionaires, Mounted Warriors deal "
 "tremendous dammage without sacrificing speed. "
 msgstr ""
 
@@ -1627,19 +1627,19 @@ msgstr ""
 #. [unit_type]: id=Arendian Slayer, race=arendian
 #: Imperial_Era/units/human-arendians/Slayer.cfg:20
 msgid ""
-"In the days of Dragons, when a hunter fought and single hanen_GBdly killed a "
+"In the days of Dragons, when a hunter fought and single handedly killed a "
 "dragon he became known as a slayer. Any slayer could be recognised as such "
 "by a crimson red cloak, a colour which nobody else could wear, for they "
 "always wore one cut from the dragon's wing as a token of their victory. A "
-"right-hanen_GBd slayer would take his cloak from the left wing, and a left-"
-"hanen_GBd slayer would take his from the right wing. The unused wing was "
-"typically maen_GB into a tent, or a battle flag. Teeth became arrow-heads. "
+"right-handed slayer would take his cloak from the left wing, and a left-"
+"handed slayer would take his from the right wing. The unused wing was "
+"typically made into a tent, or a battle flag. Teeth became arrow-heads. "
 "Horns became daggers or drinking horns. No part of the dragon went unused, "
 "and none but a slayer could own anything crafted from the corpse.\n"
 " Today there is no man in all of Arendia that could match the old Slayers "
 "for skill, simply because there are no true dragons left to practice on, "
-"only wyverns. However, once a hunter is consien_GBred to be amongst the most "
-"skilled of his kind, and after rigorous trials and testing, he is awaren_GBd a "
+"only wyverns. However, once a hunter is considered to be amongst the most "
+"skilled of his kind, and after rigorous trials and testing, he is awarded a "
 "crimson red cloak; but not a dragon one. For the last one of them is stored "
 "in the palace, and was won by the first king of Arendia, when he killed the "
 "greatest dragon to ever have blackened Arenida's skies."
@@ -1659,21 +1659,21 @@ msgid ""
 "man strong enough to fight who doesn't own a horse."
 msgstr ""
 
-#. [unit_type]: id=Arendian Wanen_GBrer, race=arendian
-#: Imperial_Era/units/human-arendians/Wanen_GBrer.cfg:22
+#. [unit_type]: id=Arendian Wanderer, race=arendian
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:22
 msgid ""
-"Wanen_GBrers are outcasts from Arendian society, haveing disgraced either "
+"Wanderers are outcasts from Arendian society, haveing disgraced either "
 "themselves or their families. They now seek to regain their honour by "
-"wanen_GBring the land and killing all who are dishonourable or evil. Often "
-"these incluen_GB other wanen_GBrers who have given up on this quest as these men "
-"are en_GBad to most Arendians because of their crimes and lack of remorse for "
-"them. However, en_GBspite this, untill they are consien_GBred to have regained "
+"wandering the land and killing all who are dishonourable or evil. Often "
+"these include other wanderers who have given up on this quest as these men "
+"are dead to most Arendians because of their crimes and lack of remorse for "
+"them. However, despite this, untill they are considered to have regained "
 "their honour they are scorned and mocked by all, never to their faces, for "
-"they are famous for their short tempers and en_GBadlyness with any blaen_GB, but "
+"they are famous for their short tempers and deadlyness with any blade, but "
 "always behind their backs.\n"
 "Of course, although they, like all Arendians, are obsessed with the honour "
 "that they are trying to regain, this hasn't stopped them from learning a few "
-"dirty tricks along the way. Wanen_GBrers are aen_GBpt at knife throwing, and have "
+"dirty tricks along the way. Wanderers are adept at knife throwing, and have "
 "been known to kill men fifty feet away in one snake like movement and flick "
 "of the wrist."
 msgstr ""
@@ -1704,7 +1704,7 @@ msgid ""
 "A few of the most famous and powerful Chiefs have managed to unite several "
 "clans beneath their banner. Masters of horseback fighting, their charisma "
 "and example on the battlefield inspires their followers to daring and heroic "
-"en_GBeds.  "
+"deeds.  "
 msgstr ""
 
 #. [unit_type]: id=Arendian Warrior, race=arendian
@@ -1736,17 +1736,17 @@ msgstr ""
 #. [unit_type]: id=Lavinian Aquilifer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Aquilifer.cfg:19
 msgid ""
-"Having a lion-skin headdress on his head, a golen_GBn eagle at the top of his "
+"Having a lion-skin headdress on his head, a golden eagle at the top of his "
 "standard, and the red-and-gold of the Legion on his armor, the Aquilifer "
 "truly is a symbol of the Empire itself. There is only one Aquilifer in each "
 "legion, and he must be a bold, courageous and wise man to hold that post. By "
 "carrying the Legion's Eagle, he makes himself a target for any enemy, and "
 "often must fight, and die, protecting it. The Eagle serves as inspiration "
 "and an object of honor for all of the Legionnaires, and it will give them "
-"strength in the battle even in the en_GBad of night."
+"strength in the battle even in the dead of night."
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/human-lavinians/Centurion.cfg:26
 #: Imperial_Era/units/human-lavinians/Propugnator.cfg:24
 #: Imperial_Era/units/human-lavinians/Auxiliary.cfg:22
@@ -1773,7 +1773,7 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Archuballistarius.cfg:18
 msgid ""
 "The Lavinian Legion will often, in its conquests, come across a fortified "
-"town that refuses to surrenen_GBr. Instead of storming the walls of the city, "
+"town that refuses to surrender. Instead of storming the walls of the city, "
 "they simply wheel out the artillery. The town invariably falls. The "
 "Archuballistarius is also effective on the battlefield, although it moves "
 "rather slowly."
@@ -1810,9 +1810,9 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Ballista.cfg:17
 msgid ""
 "A Lavinian Field Ballista's primary purpose is attacking the cities that "
-"oppose the Legion's expansion. However, it is also en_GBadly against enemies on "
+"oppose the Legion's expansion. However, it is also deadly against enemies on "
 "the battlefield. It is small enough that transportation is possible, "
-"although not exactly fast, and the ballista's controller is able to en_GBfend "
+"although not exactly fast, and the ballista's controller is able to defend "
 "himself with a gladius if the ballista is attacked."
 msgstr ""
 
@@ -1828,7 +1828,7 @@ msgid ""
 "although those are the primary fighters. There are also archers, the "
 "Lavinian Bowman. However, even these have not given up the Lavinian affinity "
 "for heavy protective armor. They have given up some mobility and efficacy in "
-"combat, but have maen_GB themselves nearly inen_GBstructable.\n"
+"combat, but have made themselves nearly indestructable.\n"
 "\n"
 "The Bowman does not carry a sword. Although this will leave him vulnerable "
 "to most enemies, it allows him to instead carry around a burning ember, "
@@ -1843,11 +1843,11 @@ msgstr ""
 #. [unit_type]: id=Lavinian Centurion, race=lavinian
 #: Imperial_Era/units/human-lavinians/Centurion.cfg:19
 msgid ""
-"A Centurion, commanen_GBr of an entire Century, is well knowledged in the "
-"tactics and strategy neeen_GBd for such a post. He has a large red crest on his "
+"A Centurion, commander of an entire Century, is well knowledged in the "
+"tactics and strategy needed for such a post. He has a large red crest on his "
 "helmet, and unlike a normal Legionnaire carries a large spear along with his "
 "gladius and pila. He is not as formidable a fighter as a Praetorian Guard, "
-"but his knowledge and leaen_GBrship more than make up for this."
+"but his knowledge and leadership more than make up for this."
 msgstr ""
 
 #. [attack]: type=pierce
@@ -1868,7 +1868,7 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Decurion.cfg:17
 msgid ""
 "A Decurion commands a group of ten legionnaires, leading them with expert "
-"precision. The crest on his helm has been turned sien_GBways to make him "
+"precision. The crest on his helm has been turned sideways to make him "
 "recognizable to his troops in battle, and his armor is the color of gold for "
 "the same reason. Although he no longer bears the heavy, rectangular shield "
 "of the Legionnaire, he is still a formidible opponent, and the loss of the "
@@ -1889,7 +1889,7 @@ msgid ""
 "can fight and win in hand-to-hand combat against a rawly recruited "
 "Legionnaire. The Funditor is as good as the best Lavinian archer, both due "
 "to his own skill, and the Lavinian incompetence with the bow and insistence "
-"on en_GBfense, rather than offense, from the Saggitarius."
+"on defense, rather than offense, from the Saggitarius."
 msgstr ""
 
 #. [attack]: type=impact
@@ -1936,7 +1936,7 @@ msgid ""
 "ranged weapon, but his relative litheness and quick feet allow him to run "
 "back and forth from battle front to battle front. Also, his speed and strong "
 "sword make him perfect for taking out archers after the enemy's front lines "
-"have been en_GBcimated."
+"have been decimated."
 msgstr ""
 
 #. [unit_type]: id=Lavinian Praetorian Guard, race=lavinian
@@ -1967,7 +1967,7 @@ msgid ""
 "officer, and instead to continue fighting on the front lines. He bears a "
 "very large shield with an embossed oval in the center, which he uses both to "
 "protect himself exceeding well, and to smash his opponent's head with, "
-"temporarily stunning him. Asien_GB from that, his weapons are the same as an "
+"temporarily stunning him. Aside from that, his weapons are the same as an "
 "ordinary Legionnaire - a gladius, and two pila."
 msgstr ""
 
@@ -1982,9 +1982,9 @@ msgid ""
 "The Rorarius is as good a melee fighter as almost any member of the Legion "
 "proper, simply because his lightweight shield and lack of armor allows him "
 "to make much stronger stabs with his gladius. However, this offensive "
-"capability comes at a price; although he en_GBals more damage than even a "
+"capability comes at a price; although he deals more damage than even a "
 "Praetorian, he takes more in return, and is unable to retaliate at all "
-"against enemy archers. Rorarii are inen_GBed powerful fighters, but they are "
+"against enemy archers. Rorarii are indeed powerful fighters, but they are "
 "only support troops, and without either Legionnaires or other Auxilia they "
 "are ineffective against most armies."
 msgstr ""
@@ -1998,10 +1998,10 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Saggitarius.cfg:18
 msgid ""
 "The Saggitarii are the best archers the Lavinians have to offer - though "
-"that is not as great praise as one might imagine. They have en_GBcent skill "
+"that is not as great praise as one might imagine. They have decent skill "
 "with the bow, but they sacrifice power for accuracy, and speed for for "
-"inen_GBstructability. When a Saggitarius hien_GBs behind his great shield, no "
-"force, however, powerful, can en_GBstroy him without first en_GBstroying it."
+"indestructability. When a Saggitarius hides behind his great shield, no "
+"force, however, powerful, can destroy him without first destroying it."
 msgstr ""
 
 #. [unit_type]: id=Lavinian Siege Archer, race=lavinian
@@ -2012,7 +2012,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Siege Archer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:18
 msgid ""
-"Much of Lavinian military strategy was en_GBtermined by the need, early in "
+"Much of Lavinian military strategy was determined by the need, early in "
 "their history, to capture the fortified cities that first opposed the rise "
 "of the Empire. These towns could not be taken by marching Legionnaires, and "
 "so the Lavinians were forced to learn the art of the siege. Most important "
@@ -2020,7 +2020,7 @@ msgid ""
 "only to that was the use of the Siege Archer. These bowmen did not shoot "
 "masses of arrows into the opposing town, but rather, hiding behind massive "
 "shields that acted as mobile ramparts, would carefully pick off enemy "
-"soldiers, slowly but surely, until the enemy garrison was en_GBpleted and the "
+"soldiers, slowly but surely, until the enemy garrison was depleted and the "
 "walls could be taken unopposed."
 msgstr ""
 
@@ -2080,356 +2080,356 @@ msgstr ""
 msgid ""
 "Often a member of one of the barbarian tribes which have allied with the "
 "Empire, a Velite wears the wolf-skin headdress of the northern people, and "
-"is clothed in green and brown; he wields a throwing spear and a small wooen_GBn "
+"is clothed in green and brown; he wields a throwing spear and a small wooden "
 "buckler. Not having been trained in organized combat, but rather in a form "
 "of 'tactics' that the Lavinians view and primitive and chaotic, the Velite "
 "runs around the battlefield, right past his opponents, until he finds "
-"someone he can en_GBfeat. Then he attacks."
+"someone he can defeat. Then he attacks."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Axeman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Axeman.cfg:5
+#. [unit_type]: id=Marauder Axeman, race=marauder
+#: Imperial_Era/units/human-marauders/Axeman.cfg:5
 msgid "Axeman"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Axeman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Axeman.cfg:18
+#. [unit_type]: id=Marauder Axeman, race=marauder
+#: Imperial_Era/units/human-marauders/Axeman.cfg:18
 msgid ""
-"A Marauen_GBr Axeman takes care making sure that the Marauen_GBr villages have a "
+"A Marauder Axeman takes care making sure that the Marauder villages have a "
 "good supply of wood during the cold winters in the Northland. He also excels "
-"at building the resilient wooen_GBn walls that protect Marauen_GBr encampments. "
+"at building the resilient wooden walls that protect Marauder encampments. "
 "Although he is not as furious a melee fighter as the Warriors, he knows how "
-"to use a bow, and is often seen giving Warriors some much neeen_GBd ranged "
+"to use a bow, and is often seen giving Warriors some much needed ranged "
 "suppport."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Boatsman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Boatsman.cfg:5
+#. [unit_type]: id=Marauder Boatsman, race=marauder
+#: Imperial_Era/units/human-marauders/Boatsman.cfg:5
 msgid "Boatsman"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Boatsman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Boatsman.cfg:17
+#. [unit_type]: id=Marauder Boatsman, race=marauder
+#: Imperial_Era/units/human-marauders/Boatsman.cfg:17
 msgid ""
-"The Marauen_GBrs subsist on hunted game and fish. The boatsmen among them go "
+"The Marauders subsist on hunted game and fish. The boatsmen among them go "
 "out, on rivers or on the sea, in small coracles, light enough to carry when "
 "on land. Their skills at boating do them well in wartime, when they take up "
 "arms and attack their enemies from the water."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Crusher, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Crusher.cfg:5
+#. [unit_type]: id=Marauder Crusher, race=marauder
+#: Imperial_Era/units/human-marauders/Crusher.cfg:5
 msgid "Crusher"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Crusher, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Crusher.cfg:18
+#. [unit_type]: id=Marauder Crusher, race=marauder
+#: Imperial_Era/units/human-marauders/Crusher.cfg:18
 msgid ""
-"A Marauen_GBr Crusher's only weapon is the huge iron maul he carries around. He "
+"A Marauder Crusher's only weapon is the huge iron maul he carries around. He "
 "has no need for others, for he is a master at the art of berserking, which "
 "requires no finess, only brute strength. He will fight until either he or "
-"his opponent lies en_GBad."
+"his opponent lies dead."
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-marauen_GBrs/Crusher.cfg:40
-#: Imperial_Era/units/human-marauen_GBrs/Mauler.cfg:41
+#: Imperial_Era/units/human-marauders/Crusher.cfg:40
+#: Imperial_Era/units/human-marauders/Mauler.cfg:41
 msgid "maul"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Fay, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Fay.cfg:5
+#. [unit_type]: id=Marauder Fay, race=marauder
+#: Imperial_Era/units/human-marauders/Fay.cfg:5
 msgid "female^Fay"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Fay, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Fay.cfg:19
+#. [unit_type]: id=Marauder Fay, race=marauder
+#: Imperial_Era/units/human-marauders/Fay.cfg:19
 msgid ""
-"The Marauen_GBrs and Frost Elves keep the peace between them by what might be "
-"termed an exchange of hostages. The Frost Elven princes live in Marauen_GBr "
-"villages for the first quarter of their lives, and the Marauen_GBr noblewomen "
+"The Marauders and Frost Elves keep the peace between them by what might be "
+"termed an exchange of hostages. The Frost Elven princes live in Marauder "
+"villages for the first quarter of their lives, and the Marauder noblewomen "
 "do the same in Frost Elven lands. There, they learn the art of magic from "
 "the Frost Elves, and when they return, they prove their worth in battle."
 msgstr ""
 
 #. [attack]: type=cold
-#: Imperial_Era/units/human-marauen_GBrs/Fay.cfg:59
-#: Imperial_Era/units/human-marauen_GBrs/Seeress.cfg:35
-#: Imperial_Era/units/human-marauen_GBrs/Galdra.cfg:36
+#: Imperial_Era/units/human-marauders/Fay.cfg:59
+#: Imperial_Era/units/human-marauders/Seeress.cfg:35
+#: Imperial_Era/units/human-marauders/Galdra.cfg:36
 msgid "cold blast"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Galdra, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Galdra.cfg:5
+#. [unit_type]: id=Marauder Galdra, race=marauder
+#: Imperial_Era/units/human-marauders/Galdra.cfg:5
 msgid "female^Galdra"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Galdra, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Galdra.cfg:20
+#. [unit_type]: id=Marauder Galdra, race=marauder
+#: Imperial_Era/units/human-marauders/Galdra.cfg:20
 msgid ""
-"The greatest of the Marauen_GBr seers, the Galdra, are misunen_GBrstood even by "
+"The greatest of the Marauder seers, the Galdra, are misunderstood even by "
 "their own people. The common folk see the Galdra as the warrior wives of "
 "their lords. In truth, the Galdra will use their magic in battle, but their "
-"true place is at the sien_GB of a Marauen_GBr thain, who will consult them for "
+"true place is at the side of a Marauder thain, who will consult them for "
 "advice in the wars against the Lavinians and Sidhe."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Hunter, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Hunter.cfg:18
+#. [unit_type]: id=Marauder Hunter, race=marauder
+#: Imperial_Era/units/human-marauders/Hunter.cfg:18
 msgid ""
-"A Hunter, in addition to providing Marauen_GBr villages with wood and shelter, "
+"A Hunter, in addition to providing Marauder villages with wood and shelter, "
 "supplies his people with fresh meat during the cold and harsh winters. He is "
-"more skilled at fighting in the forests than other Maurauen_GBrs, because it is "
+"more skilled at fighting in the forests than other Maurauders, because it is "
 "there that the game he hunts lives. Hours each day spent hunting and "
 "practicing has allowed him to hone his markmanship, and he is a very able "
 "archer."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Jarl, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Jarl.cfg:5
+#. [unit_type]: id=Marauder Jarl, race=marauder
+#: Imperial_Era/units/human-marauders/Jarl.cfg:5
 msgid "Jarl"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Jarl, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Jarl.cfg:21
+#. [unit_type]: id=Marauder Jarl, race=marauder
+#: Imperial_Era/units/human-marauders/Jarl.cfg:21
 msgid ""
-"A Jarl is the right-hand man of his Marauen_GBr Lord, advising him in battle "
+"A Jarl is the right-hand man of his Marauder Lord, advising him in battle "
 "and away from the field and often ruling in his stead when the Lord must be "
 "away. If a lord dies heirless, often it is the jarl who takes his place."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Lord, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Lord.cfg:22
+#. [unit_type]: id=Marauder Lord, race=marauder
+#: Imperial_Era/units/human-marauders/Lord.cfg:22
 msgid ""
-"There are few Marauen_GBrs inen_GBed that are of such skill that they receive the "
-"title Lord. A Marauen_GBr Lord is the strongest amongst his kin, and his "
-"fighting skills are constantly tested as many Marauen_GBrs challenge his status "
-"as supreme champion of his tribe. His heroic en_GBeds and charisma inspires "
-"other Marauen_GBrs to fight haren_GBr for their tribe, and to battle until the "
-"en_GBath. Many 'civilized' generals have unen_GBrestimated the Marauen_GBr Lord's "
+"There are few Marauders indeed that are of such skill that they receive the "
+"title Lord. A Marauder Lord is the strongest amongst his kin, and his "
+"fighting skills are constantly tested as many Marauders challenge his status "
+"as supreme champion of his tribe. His heroic deeds and charisma inspires "
+"other Marauders to fight harder for their tribe, and to battle until the "
+"death. Many 'civilized' generals have underestimated the Marauder Lord's "
 "wits and tactics, and paid for their mistake with their lives."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Mauler, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Mauler.cfg:5
+#. [unit_type]: id=Marauder Mauler, race=marauder
+#: Imperial_Era/units/human-marauders/Mauler.cfg:5
 msgid "Mauler"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Mauler, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Mauler.cfg:19
+#. [unit_type]: id=Marauder Mauler, race=marauder
+#: Imperial_Era/units/human-marauders/Mauler.cfg:19
 msgid ""
 "Most Crushers do not survive enough raids to be given the title of Mauler. "
 "One who does is truly a strong and fearsome opponent. He does not exercise "
-"restraint in battle, but fights until the en_GBath - it is because of this that "
+"restraint in battle, but fights until the death - it is because of this that "
 "so many die at a quite early age. Although the 'civilized' fighters think "
 "this fervor is foolhardy and pointless, many a battle has been won through "
 "the fury of the berserking Maulers."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Mounted Axeman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Mounted_Axeman.cfg:5
+#. [unit_type]: id=Marauder Mounted Axeman, race=marauder
+#: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:5
 msgid "Mounted Axeman"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Mounted Axeman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Mounted_Axeman.cfg:19
+#. [unit_type]: id=Marauder Mounted Axeman, race=marauder
+#: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:19
 msgid ""
-"Horses are hard to come by in Marauen_GBr culture, and are also hard to take "
-"along on ocean raids across Iceswept Bay. Still, any Marauen_GBr would leap at "
+"Horses are hard to come by in Marauder culture, and are also hard to take "
+"along on ocean raids across Iceswept Bay. Still, any Marauder would leap at "
 "the chance to steal horse or livestock, even if only for the journey back. "
 "All of the negative aspects of riding a horse into battle are forgotten once "
-"a Marauen_GBr makes the first quick and powerful axe-sweep cutting down an "
+"a Marauder makes the first quick and powerful axe-sweep cutting down an "
 "enemy, especially if the very horse he is riding was stolen from the man he "
 "slays."
 msgstr ""
 
-#. [attack]: type=blaen_GB
-#: Imperial_Era/units/human-marauen_GBrs/Mounted_Axeman.cfg:24
-#: Imperial_Era/units/human-marauen_GBrs/Mounted_Axeman.cfg:33
+#. [attack]: type=blade
+#: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:24
+#: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:33
 msgid "battleaxe"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Pillager, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Pillager.cfg:5
+#. [unit_type]: id=Marauder Pillager, race=marauder
+#: Imperial_Era/units/human-marauders/Pillager.cfg:5
 msgid "Pillager"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Pillager, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Pillager.cfg:18
+#. [unit_type]: id=Marauder Pillager, race=marauder
+#: Imperial_Era/units/human-marauders/Pillager.cfg:18
 msgid ""
-"Marauen_GBr Warriors wield their torches out of necessity, recognizing that "
+"Marauder Warriors wield their torches out of necessity, recognizing that "
 "some enemies are easier to burn than to slice in twain, but the Pillagers "
 "embrace their role as arsonists. They revel in the seizing of what they can "
 "from the houses of their foes, and the burning of what they cannot."
 msgstr ""
 
 #. [attack]: type=fire
-#: Imperial_Era/units/human-marauen_GBrs/Warrior.cfg:59
-#: Imperial_Era/units/human-marauen_GBrs/Pillager.cfg:59
-#: Imperial_Era/units/human-marauen_GBrs/Scorcher.cfg:60
+#: Imperial_Era/units/human-marauders/Warrior.cfg:59
+#: Imperial_Era/units/human-marauders/Pillager.cfg:59
+#: Imperial_Era/units/human-marauders/Scorcher.cfg:60
 msgid "torch"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Raien_GBr, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Raien_GBr.cfg:5
-msgid "Raien_GBr"
+#. [unit_type]: id=Marauder Raider, race=marauder
+#: Imperial_Era/units/human-marauders/Raider.cfg:5
+msgid "Raider"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Raien_GBr, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Raien_GBr.cfg:19
+#. [unit_type]: id=Marauder Raider, race=marauder
+#: Imperial_Era/units/human-marauders/Raider.cfg:19
 msgid ""
-"Only the best scouts are called Raien_GBrs. They are rumored to catch wild "
-"horses singlehanen_GBdly... and by foot. These rumors are not too far from the "
-"truth. The Raien_GBr's extreme quickness is of great use in battle, for he can "
-"reach the front before the opponent and capture the good en_GBfensive terrain. "
+"Only the best scouts are called Raiders. They are rumored to catch wild "
+"horses singlehandedly... and by foot. These rumors are not too far from the "
+"truth. The Raider's extreme quickness is of great use in battle, for he can "
+"reach the front before the opponent and capture the good defensive terrain. "
 "He also carried with him a net for entangling the enemy, both to slow him "
 "down in battle and, if the other opponents flee, to capture him as a slave."
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-marauen_GBrs/Raien_GBr.cfg:61
+#: Imperial_Era/units/human-marauders/Raider.cfg:61
 msgid "net"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Sailor, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Sailor.cfg:5
+#. [unit_type]: id=Marauder Sailor, race=marauder
+#: Imperial_Era/units/human-marauders/Sailor.cfg:5
 msgid "Sailor"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Sailor, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Sailor.cfg:18
+#. [unit_type]: id=Marauder Sailor, race=marauder
+#: Imperial_Era/units/human-marauders/Sailor.cfg:18
 msgid ""
-"Marauen_GBr fishermen spend their whole lives around boats - even when on land, "
+"Marauder fishermen spend their whole lives around boats - even when on land, "
 "they carry their coracles on their backs with them. They already know all "
-"they can learn about boatsmanship, but they can inen_GBed learn more about "
+"they can learn about boatsmanship, but they can indeed learn more about "
 "warfare. It takes immense skill for them to wield an axe in a boat as small "
 "as theirs."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Scorcher, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Scorcher.cfg:5
+#. [unit_type]: id=Marauder Scorcher, race=marauder
+#: Imperial_Era/units/human-marauders/Scorcher.cfg:5
 msgid "Scorcher"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Scorcher, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Scorcher.cfg:19
+#. [unit_type]: id=Marauder Scorcher, race=marauder
+#: Imperial_Era/units/human-marauders/Scorcher.cfg:19
 msgid ""
-"Some of the most powerful and experienced Marauen_GBrs choose not to take on "
-"the responsibilities of being a Marauen_GBr Lord, and instead choose to be the "
+"Some of the most powerful and experienced Marauders choose not to take on "
+"the responsibilities of being a Marauder Lord, and instead choose to be the "
 "first to land and plunge into battle. They wield a torch in battle, and, as "
-"a symbol of their status in Marauen_GBr society, are always given the right to "
+"a symbol of their status in Marauder society, are always given the right to "
 "burn away the first civilized building during raids. Their strength and fury "
 "in battle is a constant source of tales throughtout the land, and even the "
 "most skilled warriors can not stand in their way for long."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Scout, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Scout.cfg:5
+#. [unit_type]: id=Marauder Scout, race=marauder
+#: Imperial_Era/units/human-marauders/Scout.cfg:5
 msgid "Scout"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Scout, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Scout.cfg:18
+#. [unit_type]: id=Marauder Scout, race=marauder
+#: Imperial_Era/units/human-marauders/Scout.cfg:18
 msgid ""
-"All marauen_GBr children are evaluated by the clan lords at the age of only "
+"All marauder children are evaluated by the clan lords at the age of only "
 "eight winters. All of the ones who seem extremely lithe and agile are "
 "selected to become Scouts, the first to enter every battle and the last to "
-"leave. Marauen_GBr chieftains usually use them almost as one would a mounted "
+"leave. Marauder chieftains usually use them almost as one would a mounted "
 "warrior."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Sea Wolf, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Sea_Wolf.cfg:4
+#. [unit_type]: id=Marauder Sea Wolf, race=marauder
+#: Imperial_Era/units/human-marauders/Sea_Wolf.cfg:4
 msgid "Sea Wolf"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Sea Wolf, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Sea_Wolf.cfg:18
+#. [unit_type]: id=Marauder Sea Wolf, race=marauder
+#: Imperial_Era/units/human-marauders/Sea_Wolf.cfg:18
 msgid ""
-"Tales are told in the villages of Arendia of the terrifying Marauen_GBr raids. "
+"Tales are told in the villages of Arendia of the terrifying Marauder raids. "
 "In the dark of night, boats will float swiftly come downstream, bearing fire "
-"and en_GBath. The dreaen_GBd Sea Wolves, their ships cloaked in black, will charge "
-"out onto the land, slay their victims, take their plunen_GBr, and retreat as "
+"and death. The dreaded Sea Wolves, their ships cloaked in black, will charge "
+"out onto the land, slay their victims, take their plunder, and retreat as "
 "quickly as they came."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Seeress, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Seeress.cfg:5
+#. [unit_type]: id=Marauder Seeress, race=marauder
+#: Imperial_Era/units/human-marauders/Seeress.cfg:5
 msgid "female^Seeress"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Seeress, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Seeress.cfg:19
+#. [unit_type]: id=Marauder Seeress, race=marauder
+#: Imperial_Era/units/human-marauders/Seeress.cfg:19
 msgid ""
-"The art of seid is taught to Marauen_GBr noblewomen by the Frost Elves, their "
+"The art of seid is taught to Marauder noblewomen by the Frost Elves, their "
 "allies, as part of a political agreement between the two peoples. After "
 "returning home from the Frost Elven lands, the Seeress has learned to use "
 "her powers in battle, striking down foes with a wave of her hand."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Shieldmaien_GBn, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Shieldmaien_GBn.cfg:5
-msgid "female^Shieldmaien_GBn"
+#. [unit_type]: id=Marauder Shieldmaiden, race=marauder
+#: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:5
+msgid "female^Shieldmaiden"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Shieldmaien_GBn, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Shieldmaien_GBn.cfg:19
+#. [unit_type]: id=Marauder Shieldmaiden, race=marauder
+#: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:19
 msgid ""
 "Although their training with the Frost Elves showed them how to use magic "
-"with no aid or magical props, some Marauen_GBr noblewomen wish to fight with "
+"with no aid or magical props, some Marauder noblewomen wish to fight with "
 "true weapons as well. Using their knowledge of seid to their advantage, they "
 "imbue their spears with a fey spirit, and even with no martial training they "
 "can often best warriors at their own game."
 msgstr ""
 
 #. [attack]: type=arcane
-#: Imperial_Era/units/human-marauen_GBrs/Shieldmaien_GBn.cfg:58
-#: Imperial_Era/units/human-marauen_GBrs/Valkyrie.cfg:36
+#: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:58
+#: Imperial_Era/units/human-marauders/Valkyrie.cfg:36
 msgid "lightbeam"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Valkyrie, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Valkyrie.cfg:5
+#. [unit_type]: id=Marauder Valkyrie, race=marauder
+#: Imperial_Era/units/human-marauders/Valkyrie.cfg:5
 msgid "female^Valkyrie"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Valkyrie, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Valkyrie.cfg:20
+#. [unit_type]: id=Marauder Valkyrie, race=marauder
+#: Imperial_Era/units/human-marauders/Valkyrie.cfg:20
 msgid ""
-"Tales float about in Lavinia of the Marauen_GBr Valkyries. They are, it is "
+"Tales float about in Lavinia of the Marauder Valkyries. They are, it is "
 "said, spirits from the netherworld come to claim souls for the army that "
-"will fight besien_GB them on the last days against the legions of darkness. "
-"Those they touch with their spears are en_GBstined to fall in battle that day "
+"will fight beside them on the last days against the legions of darkness. "
+"Those they touch with their spears are destined to fall in battle that day "
 "and be brought back to fight for good in the final battle at the end of "
 "time. It is an intriguing story, but it is no consolation for the "
 "Legionnaires who are slain at the hands of a Valkyrie, who are in truth not "
-"spirits, but Marauen_GBr noblemwomen who have mastered the art of seid, and who "
+"spirits, but Marauder noblemwomen who have mastered the art of seid, and who "
 "have given themselves the wings of a bird - so great is their power - to "
 "better move about the battlefield."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Warrior, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Warrior.cfg:18
+#. [unit_type]: id=Marauder Warrior, race=marauder
+#: Imperial_Era/units/human-marauders/Warrior.cfg:18
 msgid ""
-"Warriors are the main fighters in the Marauen_GBr army. Very strong and faster "
+"Warriors are the main fighters in the Marauder army. Very strong and faster "
 "than most troops because of their light armour, they reach the front "
-"quickly, and once the enemy is routed they often cannot escape the blaen_GB of "
+"quickly, and once the enemy is routed they often cannot escape the blade of "
 "these swift and brutal men. The Warriors believe that if they die in battle, "
 "they will live forever, drinking and feasting with the gods, it is this that "
 "gives them their fearlessness when fighting."
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Woodsman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Woodsman.cfg:5
+#. [unit_type]: id=Marauder Woodsman, race=marauder
+#: Imperial_Era/units/human-marauders/Woodsman.cfg:5
 msgid "Woodsman"
 msgstr ""
 
-#. [unit_type]: id=Marauen_GBr Woodsman, race=marauen_GBr
-#: Imperial_Era/units/human-marauen_GBrs/Woodsman.cfg:19
+#. [unit_type]: id=Marauder Woodsman, race=marauder
+#: Imperial_Era/units/human-marauders/Woodsman.cfg:19
 msgid ""
-"Woodsmen are well-respected in Marauen_GBr society, and their hunting and "
-"forestry skills are unmatched by any man. Amongst the Marauen_GBrs' numereous "
-"enemies, they are avoien_GBd and greatly feared - and for good reason, as their "
+"Woodsmen are well-respected in Marauder society, and their hunting and "
+"forestry skills are unmatched by any man. Amongst the Marauders' numereous "
+"enemies, they are avoided and greatly feared - and for good reason, as their "
 "markmanship with bow and pure strength is amazing. Many of them train by "
 "chopping down trees with a single blow."
 msgstr ""
@@ -2445,13 +2445,13 @@ msgid ""
 "A Nemidian Champion is one of the most skilled horseman ever, both in the "
 "Empire and in his homeland of Nemidia. His spear-charges are feared "
 "throughout the land, as are his scimitar and javelins. He has garbed himself "
-"in the Lavinian fashion, and even takes the red and golen_GBn colors of the "
+"in the Lavinian fashion, and even takes the red and golden colors of the "
 "Legion. If it were not for the fact that his skin was black - burnt by the "
 "sun, the Lavinians believe - he could be mistaken for a Lavinian general, "
 "commanding his Legionnaires from horseback."
 msgstr ""
 
-#. [attack]: type=blaen_GB
+#. [attack]: type=blade
 #: Imperial_Era/units/human-nemidians/Champion.cfg:49
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:48
 msgid "scimitar"
@@ -2465,11 +2465,11 @@ msgstr ""
 #. [unit_type]: id=Nemidian Claimant, race=nemidian
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:32
 msgid ""
-"The more skilled the rien_GBrs of Nemidia grow, the faster they are able to "
+"The more skilled the riders of Nemidia grow, the faster they are able to "
 "push their horses to run. A Nemidian Claimant's horse wears light armor, but "
 "it still manages to go faster than that of an untrained cavalryman. In "
 "addition, the Claimant now wields an additional weapon; a scimitar, which he "
-"uses when he does not wish to en_GBal or recieve instant en_GBath."
+"uses when he does not wish to deal or recieve instant death."
 msgstr ""
 
 #. [unit_type]: id=Nemidian Hippopotamus, race=nemidian
@@ -2482,7 +2482,7 @@ msgstr ""
 msgid ""
 "The Lavinians have a name for the fearsome river horse of the Nemidian "
 "waters - 'hippopotamus'. The enemies who face them often have never heard of "
-"these strange beasts, but they too have a name for them - en_GBath on four "
+"these strange beasts, but they too have a name for them - death on four "
 "legs. "
 msgstr ""
 
@@ -2512,11 +2512,11 @@ msgstr ""
 #. [unit_type]: id=Nemidian River Calf, race=nemidian
 #: Imperial_Era/units/human-nemidians/River_Calf.cfg:18
 msgid ""
-"The land of Nemidia is not all en_GBsert. Many rivers cut through across the "
+"The land of Nemidia is not all desert. Many rivers cut through across the "
 "sands, and the greatest of these leave fertile stretches in their "
-"floodplains that the Nemidians often farm. In these rivers lurk en_GBath, "
+"floodplains that the Nemidians often farm. In these rivers lurk death, "
 "however, in the form of the river horse. A bull hippo can crush a man "
-"unen_GBrfoot with the ease of a man crushing a bug. Some enterprising Nemidians "
+"underfoot with the ease of a man crushing a bug. Some enterprising Nemidians "
 "capture the offspring of these creatures, raising them in the hopes of "
 "riding them as a form of aquatic cavalry "
 msgstr ""
@@ -2531,17 +2531,17 @@ msgstr ""
 msgid ""
 "The strange appearance of the River Horse often leads the enemies of the "
 "Nemidians and their Lavinian allies to laugh, believing them to be riding "
-"giant pigs. The rien_GBrs of these beasts have the last laugh, however, as more "
+"giant pigs. The riders of these beasts have the last laugh, however, as more "
 "often than not they teach their opponents that, though their hippos may look "
 "like giant pigs, they are not nearly as easy to slaughter. "
 msgstr ""
 
-#. [unit_type]: id=Sidhe Ancestor, race=unen_GBad
+#. [unit_type]: id=Sidhe Ancestor, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Ancestor.cfg:5
 msgid "Ancestor"
 msgstr ""
 
-#. [unit_type]: id=Sidhe Ancestor, race=unen_GBad
+#. [unit_type]: id=Sidhe Ancestor, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Ancestor.cfg:24
 msgid ""
 "Revered warriors of old roam through the woods of the sidhe, visible only "
@@ -2563,28 +2563,28 @@ msgstr ""
 msgid "requiem"
 msgstr ""
 
-#. [unit_type]: id=Sidhe Forefather, race=unen_GBad
+#. [unit_type]: id=Sidhe Forefather, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Forefather.cfg:5
 msgid "Forefather"
 msgstr ""
 
-#. [unit_type]: id=Sidhe Forefather, race=unen_GBad
+#. [unit_type]: id=Sidhe Forefather, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Forefather.cfg:24
 msgid ""
 "The greatest warriors of the sidhe are far from gone. When you hear their "
-"en_GBath chant, echoing through the trees, know that their silver maces are "
+"death chant, echoing through the trees, know that their silver maces are "
 "also near."
 msgstr ""
 
-#. [unit_type]: id=Sidhe Warrior Spirit, race=unen_GBad
+#. [unit_type]: id=Sidhe Warrior Spirit, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Warrior_Spirit.cfg:5
 msgid "Warrior Spirit"
 msgstr ""
 
-#. [unit_type]: id=Sidhe Warrior Spirit, race=unen_GBad
+#. [unit_type]: id=Sidhe Warrior Spirit, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Warrior_Spirit.cfg:21
 msgid ""
 "The great sidhe warriors of times past are not quite gone. They roam through "
 "the forests of their former homes, seeking to perform the feats of arms they "
-"did in the past, and en_GBath is no obstacle..."
+"did in the past, and death is no obstacle..."
 msgstr ""
