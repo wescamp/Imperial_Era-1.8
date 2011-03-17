@@ -1194,7 +1194,7 @@ msgstr ""
 #: Imperial_Era/units/elves-wild/Wardancer.cfg:20
 msgid ""
 "Wardancers are legends among the sidhe. The skill of a bladespinner may seem "
-"unb_NOelievable, but he is an amateur compared to a mighty wardancer. For a man "
+"unbelievable, but he is an amateur compared to a mighty wardancer. For a man "
 "will be killed 3 times over before he touches the ground."
 msgstr ""
 
@@ -1294,7 +1294,7 @@ msgstr ""
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:26
 msgid ""
 "The windrunners are the finest scouts available to the sidhe. Their speed is "
-"unb_NOelievable, and their prowesses with their spears, whether thrown or in "
+"unbelievable, and their prowesses with their spears, whether thrown or in "
 "hand to hand, are amazing.\n"
 "\n"
 "Special notes: Their primary spear they coat with the sap of a certain "
